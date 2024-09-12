@@ -1,9 +1,3 @@
-<%-- 
-    Document   : admin
-    Created on : 11/09/2024, 9:24:07 p. m.
-    Author     : ESTUDIANTE
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="es">

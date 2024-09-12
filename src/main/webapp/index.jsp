@@ -32,11 +32,12 @@
                 <label for="password">Contraseña</label>
                 <input type="password" id="password" name="password" required>
             </div>
-            <button  onclick="location.href='cliente.html'" type="submit">Ingresar </button>
+            <button type="submit value="login">Ingresar </button>
         </form>
         <div class="new-user">
             <p>¿Nuevo usuario? <a href="registro.jsp">Regístrate aquí</a></p>
         </div>
+        
     </div>
     </body>
 </html>
