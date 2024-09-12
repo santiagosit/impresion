@@ -1,0 +1,7 @@
+com\mycompany\impresion\JakartaRestConfiguration.class
+Modelos\Conexion.class
+Modelos\Usuario.class
+Modelos\UsuarioDAO.class
+Modelos\Validar.class
+com\mycompany\impresion\resources\JakartaEE10Resource.class
+Controlador\Controlador.class
